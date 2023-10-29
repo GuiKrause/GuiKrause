@@ -1,5 +1,7 @@
 ### Olá! Eu sou o Guilherme, fique a vontade para ver meus projetos.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiKrause)](https://github.com/anuraghazra/github-readme-stats)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gui-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
