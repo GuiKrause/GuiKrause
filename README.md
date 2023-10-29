@@ -1,8 +1,9 @@
 ### Olá! Eu sou o Guilherme, fique a vontade para ver meus projetos.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiKrause)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+<div>
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiKrause)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiKrause)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
