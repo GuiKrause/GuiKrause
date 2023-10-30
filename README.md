@@ -1,6 +1,9 @@
 # **About**
 Hello everyone, my name is Guilherme Krause.
 Take a look at the projects!!!
+💻 Becoming a developer.
+📚 Analysis and System Development.
+🧮 Math enthusiast.
 
 # **Git Stats**
 <div>
@@ -29,3 +32,5 @@ Take a look at the projects!!!
   <a href = "mailto:contato.guilhermekrause@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/guilhermekrauseramos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+The background color is `#e6e6e6` for light mode and `#333` for dark mode.
