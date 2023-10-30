@@ -1,6 +1,5 @@
 # **About**
-Hello everyone, my name is Guilherme Krause.
-Take a look at the projects!!!
+### Hello everyone, my name is Guilherme Krause. Take a look at the projects!!!
 
 + 💻 Becoming a developer.
 + 📚 Analysis and System Development.
