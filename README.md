@@ -1,11 +1,10 @@
 ### Olá! Eu sou o Guilherme, fique a vontade para ver meus projetos.
 
 <div>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <a href="https://github.com/GuiKrause/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GuiKrause&theme=nightowl"/>
   </a>
-  <br/>
-  <a href="https://github.com/anuraghazra/convoychat">
+  <a href="https://github.com/GuiKrause/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiKrause&layout=donut"/>
   </a>
 </div>
