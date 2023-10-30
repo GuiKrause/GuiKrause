@@ -9,9 +9,7 @@
   </a>
 </div>
 
-<a href="https://github-readme-stats.vercel.app/api/wakatime?username=GuiKrause">
-    <img height=200 align="center" src="https://github.com/anuraghazra/github-readme-stats"/>
-  </a>
+<a href="https://wakatime.com/@018b7e03-a45f-4eb5-900c-6e54e056b60a"><img src="https://wakatime.com/badge/user/018b7e03-a45f-4eb5-900c-6e54e056b60a.svg" alt="Total time coded since Oct 29 2023" /></a>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gui-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
