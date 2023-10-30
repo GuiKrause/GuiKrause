@@ -1,4 +1,4 @@
-<h1>About</h1>
+<h1>**About**</h1>
 <p>Hello everyone, my name is Guilherme Krause.
 <p>Take a look at the projects.</p>
 <h1>Git Stats</h1>
