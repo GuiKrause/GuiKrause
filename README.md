@@ -1,9 +1,9 @@
 # **About**
-### Hello everyone, my name is Guilherme Krause. Take a look at the projects!!!
+###### Hello everyone, my name is Guilherme Krause. Take a look at the projects!!!
 
-+ 💻 Becoming a developer.
++ 💻 Becoming a Developer.
 + 📚 Analysis and System Development.
-+ 🧮 Math enthusiast.
++ 🧮 Math Enthusiast.
 
 # **Git Stats**
 <div>
