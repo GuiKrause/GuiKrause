@@ -5,7 +5,7 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GuiKrause&theme=nightowl"/>
   </a>
   <a href="https://github.com/GuiKrause/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiKrause&layout=donut"/>
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiKrause&layout=donut&theme=nightowl"/>
   </a>
 </div>
 
