@@ -1,5 +1,7 @@
-### Olá! Eu sou o Guilherme, fique a vontade para ver meus projetos.
-
+<h1>About</h1>
+<p>Hello everyone, my name is Guilherme Krause.
+<p>Take a look at the projects.</p>
+<h1>Git Stats</h1>
 <div>
   <a href="https://github.com/GuiKrause/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GuiKrause&theme=nightowl&rank_icon=github"/>
